@@ -7,7 +7,7 @@ The below table is for easy navigation, but, feel free to explore the Repository
 |-------------------------------------|-----------------------|---------------------------|
 | **Chemistry**                       | [Notes](https://github.com/RiteshJha912/Notes-Sem2-FY-C/tree/main/Chemistry/Theory) | [Lab Templates](https://github.com/RiteshJha912/Notes-Sem2-FY-C/tree/main/Chemistry/Lab%20Templates) |
 | **EEEE**                            | [Notes](https://github.com/RiteshJha912/Notes-Sem2-FY-C/tree/main/EEEE) | - |
-| **ED **                             | [Sample Solutions](https://github.com/RiteshJha912/Notes-Sem2-FY-C/tree/main/Drawing(ED)/Notes) |  [Lab Assignments](https://github.com/RiteshJha912/Notes-Sem2-FY-C/tree/main/Drawing(ED)/Lab)  |
+| **ED**                             | [Sample Solutions](https://github.com/RiteshJha912/Notes-Sem2-FY-C/tree/main/Drawing(ED)/Notes) |  [Lab Assignments](https://github.com/RiteshJha912/Notes-Sem2-FY-C/tree/main/Drawing(ED)/Lab)  |
 | **Maths**                           | [Notes](https://github.com/RiteshJha912/Notes-Sem2-FY-C/tree/main/AM2) | - |
 | **PIC**                          | - | [Lab Assignments](https://github.com/RiteshJha912/Notes-Sem2-FY-C/tree/main/PIC/Lab) |
 | **Project Based Learning**          | - | [Files](https://github.com/RiteshJha912/Notes-Sem2-FY-C/tree/main/PBL) |
